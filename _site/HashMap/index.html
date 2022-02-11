@@ -1,0 +1,633 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>HashMap – クラス記録 – 「礼を言う。俺はまだまだ強くなれる。」</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+
+Python
+
+dict = {
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
+
+dict.update({"year" : 1903}
+dict.get("brand"); 
+
+
+
+  增删改查, Traverse. 自己查一下掌握.
+
+
+原理
+
+How HashMap work?
+
+
+  
+    Array + LinkedList/red-black tree
+  
+  
+    HashMap maintains an array of the bucket. But when we store or retrieve any key-value pair, HashMap calculates the index of the bucket for each and every operation. The Key object is used to calculate the index of the bucket.
+  
+  
+    a hash value is calculated using the key’s hash code by calling its hashCode()  method. This hash value is used to calculate the index in the array for storing the Entry objects.
+  
+  
+    When two objects have the same hashcode, they are put into the same bucket using a linkedList. If the linkedlist is too long, it will be converted into a red-black tree.
+  
+
+
+Equal/HashCode
+
+
+  java独有.
+  如果两个object 的Hashcode 不一样, 两个object 一定不一样. 如果两个object的hashcode 一样, 他们不一定一样.
+  用法, Default用在HashMap的比较之中.
+  为什么先比Hashcode, 因为Hashcode 比较是O(1), 如果Hashcode 不一样, 就没有必要往下比了.
+  object.
+
+
+equals{
+	if(a.hashcode() != b.hashcode()){
+		return false;
+	}else{
+		// 细致去比较里面的内容. 
+	}
+}
+
+
+Time Complexity
+
+
+  for add, remove and look-up operation of HashSet/HashMap takes O(1) time.
+  理想情况时O（1），非理想情况是O(n)List／O（lgn）红黑树的话
+
+
+Space Complexity
+
+
+  Map&lt;Integer, Integer&gt; :  O(n * 1) 
+  Map&lt;Integer, in[] &gt; :  O(n^2) 
+  Map&lt;Integer, int[][]&gt;. : O(n^3)
+
+
+" />
+    <meta property="og:description" content="
+
+Python
+
+dict = {
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
+
+dict.update({"year" : 1903}
+dict.get("brand"); 
+
+
+
+  增删改查, Traverse. 自己查一下掌握.
+
+
+原理
+
+How HashMap work?
+
+
+  
+    Array + LinkedList/red-black tree
+  
+  
+    HashMap maintains an array of the bucket. But when we store or retrieve any key-value pair, HashMap calculates the index of the bucket for each and every operation. The Key object is used to calculate the index of the bucket.
+  
+  
+    a hash value is calculated using the key’s hash code by calling its hashCode()  method. This hash value is used to calculate the index in the array for storing the Entry objects.
+  
+  
+    When two objects have the same hashcode, they are put into the same bucket using a linkedList. If the linkedlist is too long, it will be converted into a red-black tree.
+  
+
+
+Equal/HashCode
+
+
+  java独有.
+  如果两个object 的Hashcode 不一样, 两个object 一定不一样. 如果两个object的hashcode 一样, 他们不一定一样.
+  用法, Default用在HashMap的比较之中.
+  为什么先比Hashcode, 因为Hashcode 比较是O(1), 如果Hashcode 不一样, 就没有必要往下比了.
+  object.
+
+
+equals{
+	if(a.hashcode() != b.hashcode()){
+		return false;
+	}else{
+		// 细致去比较里面的内容. 
+	}
+}
+
+
+Time Complexity
+
+
+  for add, remove and look-up operation of HashSet/HashMap takes O(1) time.
+  理想情况时O（1），非理想情况是O(n)List／O（lgn）红黑树的话
+
+
+Space Complexity
+
+
+  Map&lt;Integer, Integer&gt; :  O(n * 1) 
+  Map&lt;Integer, in[] &gt; :  O(n^2) 
+  Map&lt;Integer, int[][]&gt;. : O(n^3)
+
+
+" />
+    
+    <meta name="author" content="クラス記録" />
+
+    
+    <meta property="og:title" content="HashMap" />
+    <meta property="twitter:title" content="HashMap" />
+    
+  <!-- Async font loading -->
+<script>
+  window.WebFontConfig = {
+      custom: {
+          families: ['Spoqa Han Sans:100,300,400,700'],
+          urls: ['https://spoqa.github.io/spoqa-han-sans/css/SpoqaHanSans-kr.css']
+      },
+      timeout: 60000
+  };
+  (function(d) {
+      var wf = d.createElement('script'), s = d.scripts[0];
+      wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js';
+      s.parentNode.insertBefore(wf, s);
+  })(document);
+</script>
+
+<!--adobe fonts-->
+<script>
+    (function(d) {
+      var config = {
+        kitId: 'vbt3gjx',
+        scriptTimeout: 3000,
+        async: true
+      },
+      h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+    })(document);
+</script> 
+
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+  <link rel="stylesheet" type="text/css" href="/Class_Ashley/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="クラス記録 - 「礼を言う。俺はまだまだ強くなれる。」" href="/Class_Ashley/feed.xml" />
+  <link rel="shortcut icon" href="https://raw.githubusercontent.com/FromEndWorld/endworld/master/images/logo.png">
+  <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <script src="https://unpkg.com/feather-icons"></script>
+  <script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?...">
+  </script>
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+        inlineMath: [['$','$']]
+      }
+    });
+  </script>
+
+  <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+
+
+  <!-- Here for the Light Gallery-->
+  
+
+  
+
+</head>
+
+  <body>
+    <div class="wrapper-sidebar">
+  <header class="sidebar clearfix">
+    <div class="site-info">
+      
+        <a href="/Class_Ashley/" class="site-avatar"><img src="https://raw.githubusercontent.com/FromEndWorld/endworld/master/images/logo.png" /></a>
+       
+      <h1 class="site-name"><a href="/Class_Ashley/">クラス記録</a></h1>
+      <p class="site-description">「礼を言う。俺はまだまだ強くなれる。」</p>
+    </div>
+  </header>
+
+  <div class="navlist">
+    <nav>
+      
+      
+      <a href="/Class_Ashley/">ホーム</a>
+      
+      
+      
+      <a href="/Class_Ashley/about">関連</a>
+      
+      
+      
+      <a href="/Class_Ashley/shortcuts">常備</a>
+      
+      
+      
+      <a href="/Class_Ashley/archive">アーカイブ</a>
+      
+      
+      
+      <a href="/Class_Ashley/tags">タグ</a>
+      
+      
+    </nav>
+  </div>
+
+  <div class="wrapper-footer-desktop">
+    <footer class="footer">
+      <!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+  
+  
+
+  
+
+  
+  <li><a href="mailto:contactshadowsong@gmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+</ul>
+
+
+
+<p>Copyright (c) 2021 Shadow Walker</p>
+
+    </footer>
+  </div>
+</div>
+
+    
+      <aside class="toc">
+        <ul>
+  <li><a href="#">HashMap</a>
+    <ul>
+      <li><a href="#python">Python</a></li>
+      <li><a href="#原理">原理</a></li>
+      <li><a href="#equalhashcode">Equal/HashCode</a></li>
+      <li><a href="#time-complexity">Time Complexity</a></li>
+      <li><a href="#space-complexity">Space Complexity</a></li>
+    </ul>
+  </li>
+</ul>
+      </aside>
+    
+
+    <div id="main" role="main" class="wrapper-content">
+      <div class="container">
+        <article class="posts">
+  <h1>HashMap</h1>
+
+  <div clsss="meta">
+    <span class="author">
+      Shadow Song
+    </span>
+
+    <span class="date">
+      2021-11-29
+    </span>
+
+    <ul class="tag">
+      
+      <li>
+        <a href="/Class_Ashley/tags#上课记录">
+          上课记录
+        </a>
+      </li>
+      
+      <li>
+        <a href="/Class_Ashley/tags#HashMap">
+          HashMap
+        </a>
+      </li>
+      
+    </ul>
+  </div>
+
+  <div class="entry">
+    <p><img src="https://i.stack.imgur.com/x9H11.png" alt="" /></p>
+
+<h2 id="python">Python</h2>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">dict</span> <span class="o">=</span> <span class="p">{</span>
+  <span class="s">"brand"</span><span class="p">:</span> <span class="s">"Ford"</span><span class="p">,</span>
+  <span class="s">"model"</span><span class="p">:</span> <span class="s">"Mustang"</span><span class="p">,</span>
+  <span class="s">"year"</span><span class="p">:</span> <span class="mi">1964</span>
+<span class="p">}</span>
+
+<span class="nb">dict</span><span class="p">.</span><span class="n">update</span><span class="p">({</span><span class="s">"year"</span> <span class="p">:</span> <span class="mi">1903</span><span class="p">}</span>
+<span class="nb">dict</span><span class="p">.</span><span class="n">get</span><span class="p">(</span><span class="s">"brand"</span><span class="p">);</span> 
+</code></pre></div></div>
+
+<ul>
+  <li>增删改查, Traverse. 自己查一下掌握.</li>
+</ul>
+
+<h2 id="原理">原理</h2>
+
+<p><strong>How HashMap work?</strong></p>
+
+<ul>
+  <li>
+    <p><strong>Array + LinkedList/red-black tree</strong></p>
+  </li>
+  <li>
+    <p>HashMap maintains an array of the bucket. But when we store or retrieve any key-value pair, HashMap calculates the index of the bucket for each and every operation. <strong>The Key object is used to calculate the index of the bucket</strong>.</p>
+  </li>
+  <li>
+    <p>a hash value is calculated using the key’s hash code by calling its <strong>hashCode()</strong>  method. This hash value is used to <strong>calculate the index in the array</strong> for storing the Entry objects.</p>
+  </li>
+  <li>
+    <p>When two objects have the same hashcode, they are put into the <strong>same bucket</strong> using a <strong>linkedList</strong>. If the linkedlist is too long, it will be converted into a red-black tree.</p>
+  </li>
+</ul>
+
+<h2 id="equalhashcode">Equal/HashCode</h2>
+
+<ul>
+  <li>java独有.</li>
+  <li>如果两个object 的Hashcode 不一样, 两个object 一定不一样. 如果两个object的hashcode 一样, 他们不一定一样.</li>
+  <li>用法, Default用在HashMap的比较之中.</li>
+  <li>为什么先比Hashcode, 因为Hashcode 比较是O(1), 如果Hashcode 不一样, 就没有必要往下比了.</li>
+  <li>object.</li>
+</ul>
+
+<div class="language-java highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">equals</span><span class="o">{</span>
+	<span class="k">if</span><span class="o">(</span><span class="n">a</span><span class="o">.</span><span class="na">hashcode</span><span class="o">()</span> <span class="o">!=</span> <span class="n">b</span><span class="o">.</span><span class="na">hashcode</span><span class="o">()){</span>
+		<span class="k">return</span> <span class="kc">false</span><span class="o">;</span>
+	<span class="o">}</span><span class="k">else</span><span class="o">{</span>
+		<span class="c1">// 细致去比较里面的内容. </span>
+	<span class="o">}</span>
+<span class="o">}</span>
+</code></pre></div></div>
+
+<h2 id="time-complexity">Time Complexity</h2>
+
+<ul>
+  <li>for add, remove and look-up operation of HashSet/HashMap takes O(1) time.</li>
+  <li>理想情况时O（1），非理想情况是O(n)List／O（lgn）红黑树的话</li>
+</ul>
+
+<h2 id="space-complexity">Space Complexity</h2>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">Map&lt;Integer, Integer&gt; :  O(n * 1) </code></li>
+  <li><code class="language-plaintext highlighter-rouge">Map&lt;Integer, in[] &gt; :  O(n^2) </code></li>
+  <li><code class="language-plaintext highlighter-rouge">Map&lt;Integer, int[][]&gt;. : O(n^3)</code></li>
+</ul>
+
+
+  </div>
+
+
+  <!-- 现在不用disqus评论了, 想用可以加上 评论区只有最上面comment true的时候才能用-->
+  
+<div class="comments">
+    <div id="gitalk-container"></div>
+    <script>
+        const gitalk = new Gitalk({
+          clientID: "a3fcc2375c9254bb9429",
+          clientSecret: "8288f825a22535bb344d5969dd761e3bd2a6becb",
+          repo: "ShadowArchive",
+          owner: "AsheBlade",
+          admin: ["AsheBlade"],
+          id: window.location.pathname,      // Ensure uniqueness and length less than 50
+          distractionFreeMode: false,  // Facebook-like distraction free mode
+          title: "HashMap",
+          language: "ja",
+
+        })
+        
+        gitalk.render('gitalk-container')
+    </script>
+</div>
+
+</article>
+
+<div class="pagination">
+  
+    <span class="prev" >
+      <a href="/Class_Ashley/Sorting/">
+        ← 前に
+      </a>
+    </span>
+  
+  
+    <span class="next" >
+      <a href="/Class_Ashley/LinkedList/">
+        次に →
+      </a>
+    </span>
+  
+</div>
+
+<style>
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.333%;
+	height: 0;
+    background: black;
+}
+.videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+    border: 0;
+}    
+</style>
+
+<script>
+function get_youtube_id(url) {
+    var p = /^(?:https?:\/\/)?(?:www\.)?(?:youtu\.be\/|youtube\.com\/(?:embed\/|v\/|watch\?v=|watch\?.+&v=))((\w|-){11})(?:\S+)?$/;
+    return (url.match(p)) ? RegExp.$1 : false;
+}
+function vimeo_embed(url,el) {
+    var id = false;
+    $.ajax({
+      url: 'https://vimeo.com/api/oembed.json?url='+url,
+      async: true,
+      success: function(response) {
+        if(response.video_id) {
+          id = response.video_id;
+          if(url.indexOf('autoplay=1') !== -1) var autoplay=1; else var autoplay=0;
+          if(url.indexOf('loop=1') !== -1) var loop=1; else var loop=0;
+          var theInnerHTML = '<div class="videoWrapper"><iframe src="https://player.vimeo.com/video/'+id+'/?byline=0&title=0&portrait=0';
+          if(autoplay==1) theInnerHTML += '&autoplay=1';
+          if(loop==1) theInnerHTML += '&loop=1';
+          theInnerHTML += '" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>'; 
+          el.innerHTML = theInnerHTML;
+        }
+      }
+    });
+}
+function video_embed() {
+    var p = document.getElementsByTagName('p');
+    for(var i = 0; i < p.length; i++) {
+        //check if this is an external url (that starts with https:// or http://
+        if (p[i].innerHTML.indexOf("http://") == 0 ||
+            p[i].innerHTML.indexOf("https://") == 0) {
+            var youtube_id = get_youtube_id(p[i].innerHTML);
+            if(youtube_id) {
+                if(p[i].innerHTML.indexOf('autoplay=1') !== -1) var autoplay=1; else var autoplay=0;
+                if(p[i].innerHTML.indexOf('loop=1') !== -1) var loop=1; else var loop=0;
+                var theInnerHTML = '<div class="videoWrapper"><iframe width="720" height="420" src="https://www.youtube.com/embed/' + youtube_id + '?rel=0&showinfo=0';
+                if(autoplay==1) theInnerHTML += '&autoplay=1';
+                if(loop==1) theInnerHTML += '&loop=1&playlist='+youtube_id+'&version=3';
+                if(p[i].innerHTML.indexOf('start=') !== -1) theInnerHTML += '&start='+p[i].innerHTML.substring(p[i].innerHTML.indexOf('start=')+6);
+                theInnerHTML += '" frameborder="0" allowfullscreen></iframe></div>';
+                p[i].innerHTML = theInnerHTML;
+            }
+            if(p[i].innerHTML.indexOf('vimeo.com') !== -1) {
+                //ask vimeo for the id and place the embed
+                vimeo_embed(p[i].innerHTML,p[i]);
+            }
+        }
+    }
+}
+video_embed();
+
+function mp3_embed() {
+    var p = document.getElementsByTagName('p');
+    for(var i = 0; i < p.length; i++) {
+        if(p[i].innerHTML.indexOf('.mp3') !== -1) {
+            var str = p[i].innerHTML.split('?');
+            if(str.length == 1) str[1] = '';
+            var str1 = str[1];
+            str1 = str1.replace('&','').replace('&','');
+            str1 = str1.replace('autoplay=1','').replace('autoplay=0','');
+            str1 = str1.replace('loop=1','').replace('loop=0','');
+            str1 = str1.replace('controls=0','').replace('controls=1','');
+
+            if (str[0].lastIndexOf('.mp3', str[0].length - 4) === str[0].length - 4 && str1.length == 0) {
+                if(str[1].indexOf('autoplay=1') !== -1) var autoplay=1; else var autoplay=0;
+                if(str[1].indexOf('loop=1') !== -1) var loop=1; else var loop=0;
+                if(str[1].indexOf('controls=0') !== -1) var controls=0; else var controls=1;
+                var newInnerHTML = '<audio';
+                if(autoplay==1) newInnerHTML += ' autoplay';
+                if(loop==1) newInnerHTML += ' loop';
+                if(controls==1) newInnerHTML += ' controls';
+                newInnerHTML += '><source src="'+str[0]+'" type="audio/mpeg">Your browser does not support the audio element.</audio>';
+                p[i].innerHTML = newInnerHTML;
+            }
+        }
+    }
+}
+mp3_embed();
+</script>
+
+
+
+
+
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+
+  
+  <script>
+    document.getElementById("main").classList.add("withtoc");
+  </script>
+  
+
+  <div class="wrapper-footer-mobile">
+    <footer class="footer">
+      <!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+  
+  
+
+  
+
+  
+  <li><a href="mailto:contactshadowsong@gmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+</ul>
+
+
+
+<p>Copyright (c) 2021 Shadow Walker</p>
+
+    </footer>
+
+
+</html>
