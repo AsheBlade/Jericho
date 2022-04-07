@@ -1,5 +1,5 @@
 # 描述/签名
-name: クラス記録
+name: Jericho
 description: 「礼を言う。俺はまだまだ強くなれる。」
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
@@ -16,10 +16,11 @@ baseurl: /Jericho
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: /ShadowArchive/images/Black_Trinity_Logo.png
+avatar: /Jericho/images/Free_Style_Logo.png
+# avatar: /Jericho/images/Black_Trinity_Logo.png
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: /ShadowArchive/images/favicon.png
+favicon: /Jericho/images/Free_Style_Logo.png
 
 # 菜单中的按钮
 navigation:
@@ -59,7 +60,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # 站点页脚的文字
-footer-text: Copyright (c) 2021 Shadow Walker
+footer-text: Copyright (c) 2022 Shadow Walker
 
 #
 # 评论，注意，请不要同时添加多种不同的评论区
