@@ -369,8 +369,6 @@ Data | SC
 
 ### Sorting
 
-附: Sortign 详细的话, 就看这个 [guide]({% post_url 2020-08-20-Sorting %})
-
 - Time Complexity: Bubble Sort, Insertion Sort, Select Sort O(n^2), MergeSort, QuickSort O(nlogn)
 - Space Complexity: Bubble Sort, Insertion Sort, Select Sort O(1), MergeSort O(n), QuickSort O(1). 
 
