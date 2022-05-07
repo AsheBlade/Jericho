@@ -40,6 +40,14 @@ comments: true
 - 三件套: 蓝牙耳机, 手机, 钱包
 - optional: 佛珠, apple watch. 
 
+### Core
+
+core checklist 不能丢的物品:
+
+- 贴身三件套
+- 电脑 + 电脑充电线. 手机充电线.
+- Optional: 护照和各类证件. 
+
 
 ## 出差版
 
