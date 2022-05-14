@@ -12,11 +12,6 @@ comments: true
 
 ### Self Intro
 
-Hi I am Yiming. Recently, I **graduated** with a master degree in computer science. In my school, I learned a lot of Networking, algorithm and software programming. 
-
-Before graduate school, I was **working** in American Family Insurance as a software engineer.  I focused on **backend** with spring framework, JDBC, and Hibernate technology. I also worked on front-end with Javascript in American Family Insurance. 
-
-When I was an undergraduate student, my major was also computer science. I interned as an iOS software engineer in a startup company called 3to1. In that internship, I mainly used Swift and XCode to develop an iOS App. This is my background information, thank you. 
 
 ### Why Company
 
