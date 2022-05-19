@@ -18,20 +18,27 @@ comments: true
 
 不要一样一样打包. 把所有东西都拿出来放在地上或者一个平面上, 点清之后无遗漏统一打包. 就跟军队一样. 
 
-- Prepare a shirt if you have plan for fine dining. 
-- umbrella (if rain)
 
 - 二电源线: 手机线, 蓝牙耳机线, + 充电插头. 
 - 充电宝
-- 几十美元现金 + 储蓄卡. 
 - 洗漱包: 牙刷牙膏, 剃须刀, 唇膏, 体温计.
 - 三帽子: 睡帽, 鸭舌帽(防阳, 防玉), 棉帽(防冻). 
-- 墨镜, 3小时以上带眼镜盒子
+- 墨镜
 - 指甲刀. 
 - 袜子 x 天数, 内裤三条. 
 - 一大衣(一般冲锋衣), 一裤子(一般牛仔裤). 这两样不在sack里, 穿着. 
 - T-Shirt x 2. 一件穿身上, 一件在包里. 
 - 鞋用脚上穿的运动鞋即可. 如果有需求再加一双皮鞋随身带, 没必要带第三双. 
+
+
+### Optional
+
+- 手表充电线
+- 3小时以上带眼镜盒子
+- 几十美元现金 + 储蓄卡. 
+- Prepare a shirt if you have plan for fine dining. 
+- umbrella (if rain)
+- 夏天带短裤
 
 ### 贴身
 
@@ -39,6 +46,7 @@ comments: true
 
 - 三件套: 蓝牙耳机, 手机, 钱包
 - optional: 佛珠, apple watch. 
+- optional: Amazon Badge. 
 
 ### Core
 
@@ -53,3 +61,5 @@ core checklist 不能丢的物品:
 
 出差版衬衫要按天数带, 不要背sack了, 带拉杆箱. 
 
+- badge. 
+- 鼠标
