@@ -16,6 +16,14 @@ comments: true
 
 ## 步骤
 ## 调味
+
+咸味底味 + 甜辣
+
+- Tabasco sauce
+- Mirin
+- lime juice
+
+
 ## 注意
 ## 点评
 ## 教学视频

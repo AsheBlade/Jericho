@@ -62,4 +62,4 @@ core checklist 不能丢的物品:
 出差版衬衫要按天数带, 不要背sack了, 带拉杆箱. 
 
 - badge. 
-- 鼠标
+- Optional: 鼠标, 键盘, 接线耳机.
