@@ -4,6 +4,7 @@ title: Low Cholesterol Diet
 date: 2024-01-21
 author: Shadow Walker
 tags: [OPBC]
+toc: true
 ---
 
 ## Overview
