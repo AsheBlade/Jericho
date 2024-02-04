@@ -29,8 +29,7 @@ Software engineer.
 
 ![](https://lh3.googleusercontent.com/pw/ADCreHcVeFEH5dRJpx9mqiK6j-xHW_My6E3RYT-fSLmaSofJcdNptNdnGHLsdD0sjrwn0hRxcdh5sQJvgbF7DaPzF9Q5dHfsqaTuHtnl6OzZSjN2l2yFe_SPSVwEi4WxyYNOuuKqnhbnY7FmVduzTE0VfyJ9rQ=w1706-h1280-s-no-gm?authuser=1)
 
-## Wechat
+## Contact
 
-更多联系方式详见页面下角.
+页面左下角有email图标, 点击即可. 如果有需求要微信/电话联络, 可给我email说明来意和需求. 
 
-![](https://lh3.googleusercontent.com/pw/AL9nZEWgJWUCNWfqGtRiWK1lfUe4ljbZUTgKNQwDVGpKBYlRkweasvDAm7sXiBcoOistzapCRG__YRoRVM4qBLpNvRFSifPC64Xk6p3Gw_2aDuFjqFZX-9AW_YakPxtgqpmzYCF-DjKC5sreNcBKKc2-Q-Fy=w849-h907-no?authuser=0)
