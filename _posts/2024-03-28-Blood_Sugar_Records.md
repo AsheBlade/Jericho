@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blodd Sugar Records
+title: Blood Sugar Records
 date: 2024-03-28
 author: Shadow Walker
 tags: [OPBC]
@@ -14,6 +14,10 @@ A fasting blood sugar level of 99 mg/dL or lower is normal, 100 to 125 mg/dL ind
 ![](https://www.cdc.gov/diabetes/images/basics/CDC_Diabetes_Social_Ad_Concept_A2_Facebook.png)
 
 ## Records
+
+### 2024-03-29
+
+Morning, Fasting: 83
 
 ### 2024-03-28
 
