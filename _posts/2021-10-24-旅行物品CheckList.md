@@ -3,7 +3,7 @@ layout: post
 title: 旅行物品CheckList
 date: 2021-10-24
 author: Shadow Walker
-tags: [minimalism, 收纳, 密]
+tags: [minimalism, 收纳, 密, Shortcut]
 toc: true
 comments: true
 ---
