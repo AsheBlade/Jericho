@@ -3,7 +3,7 @@ layout: post
 title: Church talk ideas
 date: 2024-07-02
 author: Shadow Song
-tags: [Ghost_in_the_shell]
+tags: [Ghost_in_the_shell, Shortcut]
 toc: true
 comments: true
 ---
