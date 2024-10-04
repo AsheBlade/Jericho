@@ -12,6 +12,12 @@ comments: true
 
 記錄 一些 talk ideas
 
+## Timeline
+
+- 07:50 开始
+- 08:10 开始查经
+- 09:45 结束
+
 ## Pre talk
 
 ### 沒落掙扎時光
