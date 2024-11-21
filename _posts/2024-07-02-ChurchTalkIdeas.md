@@ -80,6 +80,7 @@ comments: true
 ### 信仰
 
 談談信仰的好處， 有了信仰之後能夠接受很多事情. 所有的痛苦有了 安放的地方. 
+主提供了安放所以情绪的地方，之前打自杀热线倾诉，现在不用了，感谢主. 引用大兵瑞恩诗篇的内容. 
  
 
 
@@ -102,3 +103,40 @@ comments: true
 - 閒來無事，翻閱石頭記。最不愛財，生不帶來，死不帶去。
 - 間諜的故事
 - 無人機偷拍
+
+## Bible
+
+### Psalms 诗篇
+
+Psalms 22.  from sniper
+
+- 19 But you, LORD, do not be far from me. You are my strength; come quickly to help me.
+- 20 Deliver me from the sword, my precious life from the power of the dogs.
+- 21 Rescue me from the mouth of the lions; save me from the horns of the wild oxen.
+- 22 I will declare your name to my people; in the assembly I will praise you.
+- 23 You who fear the LORD, praise him! All you descendants of Jacob, honor him! Revere him, all you descendants of Israel!
+- 24 For he has not despised or scorned the suffering of the afflicted one; he has not hidden his face from him but has listened to his cry for help.
+- 25 From you comes the theme of my praise in the great assembly; before those who fear you I will fulfill my vows.
+
+Psalms 144. aslo from sniper
+
+- 1 Praise be to the LORD my Rock, who trains my hands for war, my fingers for battle.
+- 2 He is my loving God and my fortress, my stronghold and my deliverer, my shield, in whom I take refuge, who subdues peoples under me.
+
+Psalms 25. also from sniper
+
+- 1 In you, LORD my God, I put my trust.
+- 2 I trust in you; do not let me be put to shame, nor let my enemies triumph over me.
+- 3 No one who hopes in you will ever be put to shame, but shame will come on those who are treacherous without cause.
+- 4 Show me your ways, LORD, teach me your paths.
+- 5 Guide me in your truth and teach me, for you are God my Savior, and my hope is in you all day long.
+- 6 Remember, LORD, your great mercy and love, for they are from of old.
+
+
+### Matthew 马太福音
+
+Matthew 11. 
+
+- [28] Come to me, all who labor and are heavy laden, and I will give you rest.
+- [29] Take my yoke upon you, and learn from me; for I am gentle and lowly in heart, and you will find rest for your souls.
+- [30] For my yoke is easy, and my burden is light."
