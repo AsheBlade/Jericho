@@ -140,3 +140,21 @@ Matthew 11.
 - [28] Come to me, all who labor and are heavy laden, and I will give you rest.
 - [29] Take my yoke upon you, and learn from me; for I am gentle and lowly in heart, and you will find rest for your souls.
 - [30] For my yoke is easy, and my burden is light."
+
+
+
+## 董阳子
+
+前因: 
+- 没有乡土情结. 不喜欢东北
+- 两个问题, 小沈阳, 没有东北味. 
+
+开始
+- 之前 Barry 问 小沈阳的问题. 
+- 董阳子问从哪来的.  我一开始说, 达拉斯. 第二次问, 我说中国北方. 第三次问, 我说查户口. 
+
+想法: 
+- 暴露自己的粗鲁和愚蠢. 
+- 有其他说法: 
+	- 说自己小地方人, 不好意思说.  
+	- 说自己人生一无所成, 不想谈及家乡, 给家乡丢人. 
