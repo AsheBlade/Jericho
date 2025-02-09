@@ -1,0 +1,12 @@
+# 使用方法:
+# 1. 此模板仅限于web 图片. 不用于本地图片
+# 2. 在original下面添加图片路径即可. 如果要加新图片, 就再复制粘贴一行 "- original:"
+# 3. 不要试图简化这个模板. 每一行每一个字符都不可缺, 已经尝试简化了, 下面这两行已经是最简形式, 不要强迫症去简化. 
+
+pictures:
+- original: https://lh3.googleusercontent.com/pw/AP1GczPuk_RHVcKr4UbXojA9M3iyqnodjHbElQ7vQ0Nq7i6eMgdyXYQzy9jenPAseBSRerHSKTP_Tn2oSEImW6HwBqemuKrLqCo4qnAW3ni5w07dBxJFChGa59HBaRHUJKE_VBDYZZuRWQrYSeVPjFD1lQgThA=w1651-h1238-s-no-gm?authuser=0
+- original: https://lh3.googleusercontent.com/pw/AP1GczO-Nu5qG2_HON5zdCQfWjDzqEayzzDRQ-bsbCCJRuL40Ay8omlJl4K7rO1h_okIw1ffEdcEofEe2bb34woxJh64qVe5gq1yPUlaY3vSi9PnuwzIwnosg-Zy4k5zM1VAVx4z0UdcIf1xcbG77w7sDSgEkA=w1651-h1238-s-no-gm?authuser=0
+- original: https://lh3.googleusercontent.com/pw/AP1GczN2R_3Mnuaaud5fZqPjiRVr8atE5urmTODm35qpemwGYwYgermT2uaXDSoNzKWXePFndPte6fo4NiHeR44FAJJE6rfDI3VjoiOYHZP2V8EYQiDrIZvNIbATRKLwxwwHGEjoOwXWKw8-wnrxHEPs9IsAkg=w1651-h1238-s-no-gm?authuser=0
+- original: https://lh3.googleusercontent.com/pw/AP1GczOJAxCom0UbsyqeG1R2J8qf1a3KGAzMVTLNa3g5p_IgVXvJ3kSQ3vrgq1PqKqGYM4ij_bQh9z-2JTR4HFWAgEfonhoAXa4amDco3vJ0_iHu_zprykJfCU8YCE7pMB0vtdPkEly9Gm8x1qeJdJLRsByuFQ=w1651-h1238-s-no-gm?authuser=0
+- original: https://lh3.googleusercontent.com/pw/AP1GczOQ7AJr7cEGvWOfV63UNE3gzILRPFzL0EVmzJlEsF8y71kkPMNEwrJ_XUw3Fxtadznp7kTolAipCne07x2Me_D-FYjlxGJTDEhQa6k5cgE-kgFNYZ8a5qLPdFXfJSsfiiqFa-n7cMt2oXkhMZy62i9i8w=w1651-h1238-s-no-gm?authuser=0
+- original: https://lh3.googleusercontent.com/pw/AP1GczNXPeJPjNsM6rWZeDSH7zLsLK_h0yLDz4P5ztxPiVSA3rZ_SHWxoQME1w04MIADjFBMxDH2H3EqE0z05G67r7QKYUUYOa_nwECYQV8okyTUg7jMNqJLvNCqHBaD3kLdNVrBohtpJYwXVYN_6vv6ollxwQ=w1651-h1238-s-no-gm?authuser=0
