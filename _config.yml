@@ -69,7 +69,7 @@ footer-text: Copyright (c) 2023 Shadow Walker
 #
 
 # 输入Disqus shortname，即可添加评论区
-disqus: Shadow
+disqus: shadow-bqys1aluwr #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
 # gitalk:
