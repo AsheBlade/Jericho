@@ -17,11 +17,14 @@ permalink: /about/
 
 [Jericho的来源](https://en.wikipedia.org/wiki/Jericho). 
 
-信仰是[stoic](https://en.wikipedia.org/wiki/Stoicism).  **My master serves the one.** 
+信仰是[Stoicism](https://en.wikipedia.org/wiki/Stoicism).  **My master serves the one.** 
+
+> 漫揾英雄泪，相离处士家。
+> 烟蓑雨笠卷单行，芒鞋破钵随缘化。
 
 关于我死后的一些个人安排, 写了遗嘱在[这里](https://asheblade.github.io/TombStone/)
 
-Software engineer. 
+
 
 关于这个站点的代码. 致敬[原作者](https://himring.top/welcome-to-endworld/), 这个站点来自于根据此站点的fork. 
 
