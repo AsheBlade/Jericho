@@ -1,0 +1,20 @@
+# 使用方法:
+# 1. 此模板仅限于web 图片. 不用于本地图片
+# 2. 在original下面添加图片路径即可. 如果要加新图片, 就再复制粘贴一行 "- original:"
+# 3. 不要试图简化这个模板. 每一行每一个字符都不可缺, 已经尝试简化了, 下面这两行已经是最简形式, 不要强迫症去简化. 
+
+pictures:
+- original: https://lh3.googleusercontent.com/pw/AP1GczNBit6MSiJ7hDn2XVZ8-gX8k7KVi8XLOAAGa1jhErMsaKf2zrsiYUAaZkJubuE3ymuzlizzAyUPWpQUJOvDlEGWKdTvEXOsPF3xB1sdpkz4hK_EvY1u7bNzmxIhiCMT33KzUNiWH9C-iZCANTRAYF9nrQ=w680-h576-s-no-gm?authuser=0
+- original: https://lh3.googleusercontent.com/pw/AP1GczM6nTjn5UQCvuFjAViiRwTS0Gz3oGAtFmg8AqUFUurjTt5mOaSYyEgUgMeJB3oGan1Wawr2y-7AdYeOgYtJJkdHS9zD4fm6rfcdszny0LFS485lkZauBP0n_uahQo8zt8fBdBxgq8GzLYYgSTqIHB_V_g=w870-h578-s-no-gm?authuser=0
+- original: https://lh3.googleusercontent.com/pw/AP1GczNqiBGlg4jjug4M3DjY9u4fuvcxNiyZjipvUxr2a4al22u7yCxH4_CP9XdpQOvvDj-VT0LBF8a0o0AbAg-NCGx9am1mm9NVQbD5gWFQY3Fg9a89XG6ijaGsYHSzKim0MP-U2mV-o0pv83Q9K5W9lPbaSg=w1015-h1006-s-no-gm?authuser=0
+- original: https://lh3.googleusercontent.com/pw/AP1GczNo4Vgcnpe1007vusUPxi4W3lGAKePpMZzf9VRgbMvZiXIgQ6wF16LEcLdKpBD9GxFyXmEmZ9eZPxSZ1Q_ZbVAfgbSzK5cuJk3sOaKNhzsdF729Q3eYfOJVU4XT5RSEd9HxIaA06dI0NdGI5QpxUi7hJA=w636-h578-s-no-gm?authuser=0
+- original: https://lh3.googleusercontent.com/pw/AP1GczMzBSwVIEaT8izDDfr3enguE5DEeimN6M_INEAouFOEtYZv6qXo7FOhEpUApwc3pEsZ-NFpeTyTFSOIjqXjgW32I1TQ2hggnzgp-d4oGJPz4UAe6Oxt9mE6Ru5TbBPkkjH3nzvRA0jZe3VxwQDfoyhUuA=w1080-h826-s-no-gm?authuser=0
+- original: https://lh3.googleusercontent.com/pw/AP1GczN2Nf9tKqLB7rI3hN8F8M4yw0kOlV9JA_B8zIitM_zY-ZaYxAzLEhPoqa124OoO19nqiQjY5CM_8CIkS-BGaFROTFAiTKH7_UajJL--WQqZ-94fFlkhw2zBBezZASxAusE6RFoTHSC6D6GZ8-cOxHSZ8A=w1080-h868-s-no-gm?authuser=0
+- original: https://lh3.googleusercontent.com/pw/AP1GczNZ8akYfRt8cZ3rGw033otRsXCOPw7gA2HXFc5uVxZO-5fP9_D47sUSW8rLPyXvU7bR6xxT8WMATokHp7Lg-dNQYjjuqAr9hS86Jcv6mDVEZsBFnCrbbxfFT09I43T6ptFI8pCOqbpZ3Bxp9cADJPB5gA=w1080-h812-s-no-gm?authuser=0
+- original: https://lh3.googleusercontent.com/pw/AP1GczMMKtmUiYZaTtF3jLAuH9ufDZUb9l-6A7wrMrQbNDFzajPFpZNXyIeEP8o0FAMQoWXDz_oE3BfVNkLqEgq75Or3-JilvqZe2-3J16YqT2qjysKDzRgGMkxNu3vYxQNHjiNuQ990UJ9pK4ZPjsUo-AEE_w=w1019-h919-s-no-gm?authuser=0
+- original: https://lh3.googleusercontent.com/pw/AP1GczPA8lNERhxpBJwfgP_nofWwp2JD3vShFRx5TO2nZWy4imMkfQC-VnjdtacRNjI1Zc-hNPKiIqNXgydQMO-zmgVchEATSNep-dH_ZK08huJL6kZ_8oFFpL-m0WPlXev3ppBrHCouSTpwhckc7LR6Fh_UXA=w750-h537-s-no-gm?authuser=0
+- original: https://lh3.googleusercontent.com/pw/AP1GczPEBr_yhEZdoWd6isioTWCPT4InJLPSC0-UZxYSa4HaA_raJsldKHLvOwDobNoNHFQ3oDlEaRP4CAENoH9VZ7hp99n-nvkpTkLqda9YKxjRAyO3yzSZC4coWxBGBhyDf2OMcGG26eRWNfbFf97D014bqg=w1005-h1294-s-no-gm?authuser=0
+- original: https://lh3.googleusercontent.com/pw/AP1GczNkdyjVsQUu0xIxgPhpcDlKMXNGEAai54ChKOfADF1zPkBFKcUSI43psAz-W2_9qJes7AB9GTdtC8bqufyMykvPlKOmJgxVHk4q0ybFeIdbE-FZPXiTyBSE7H7Pz4UO7fBd8Zss3edu98OYdIiXnmdDcA=w728-h1294-s-no-gm?authuser=0
+- original: https://lh3.googleusercontent.com/pw/AP1GczMRCkXKgz9Z5h_y9zTdxDYLa4QVHhuTpdeswD7jQq5Pwvptzx2dpJs3lgKVW8jh6liYOH2Lz8pymhUxGxTXJfoxBP0uKCpEs65simJxnt9xPOq5fkcbGBMGEkCFmMAhRkfb49brd49xQzoMsRRSOkBcoA=w1080-h931-s-no-gm?authuser=0
+- original: https://lh3.googleusercontent.com/pw/AP1GczNWiXImK9yv5pPADvg5wEu_UtWiWjwhgtWEF4jUcMKcpvdUaO0fLg7W6J0Y3L6d0UHPoUKt2x1NbSO8r-UTYHILZBpzz2pUSk_meIN2NJkFh0Q_qvhDqTNnTS6D7f_cg3LQtDTMrhAIagXAhSaXPbnrzg=w1061-h1294-s-no-gm?authuser=0
+- original: https://lh3.googleusercontent.com/pw/AP1GczObOSGsu3VHUvYVvZNJ-PNJWLloUIkmzwrFTGXu7_o6A6tE1ruNq2fFIbhZoavKItqe7SQbEi5ZRRIAiJ1JWV43JHMqCYicBYyLUDUKPYTr-2q9An0UAWWmSMu5U3vHhNrHaVViy8_-puQA3YmJWDHUoA=w1706-h960-s-no-gm?authuser=0
