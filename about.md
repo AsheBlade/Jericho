@@ -12,14 +12,21 @@ permalink: /about/
 
 ---
 
+[Jericho的来源](https://en.wikipedia.org/wiki/Jericho). 
+
+一个现代的犬儒主义者, 追求财富和权利纯粹因为没有其他更有价值的事情可做. 
+
+一个纯粹的商人. 如果你侮辱了我的家人, 却能给我提供**我所需要的**价值, 我们依然可以做生意. 
+
+精神上海人. 分对错, 但是懒得管.  从不judge别人. 管侬啥事体. 
+
+
 > バトー : 「ひとつ聞かせてくれ、今の自分を幸福だと感じるか？」.  
 > 素子 : 「懐かしい価値観ね。少なくとも今の私に、葛藤は存在しないわ」
 
-[Jericho的来源](https://en.wikipedia.org/wiki/Jericho). 
-
 信仰是[Stoicism](https://en.wikipedia.org/wiki/Stoicism).  **My master serves the one.** 
 
-> 漫揾英雄泪，相离处士家。
+> 漫揾英雄泪，相离处士家。 <br>
 > 烟蓑雨笠卷单行，芒鞋破钵随缘化。
 
 关于我死后的一些个人安排, 写了遗嘱在[这里](https://asheblade.github.io/TombStone/)
