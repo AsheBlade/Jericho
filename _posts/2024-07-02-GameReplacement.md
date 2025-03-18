@@ -22,3 +22,7 @@ comments: true
 ## Do task in checklist
 
 雖然不情願, 但可以進行. 
+
+## 沉思录
+
+总结提炼
