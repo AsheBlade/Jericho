@@ -18,6 +18,10 @@ permalink: /about/
 -------------------
 <br>
 
+> In 2023, the archaeological site in the center of the city, known as Tell es-Sultan / Old Jericho, was inscribed in UNESCO's list as a World Heritage Site in the State of Palestine, and described as the "oldest fortified city in the world"
+> 
+> Jericho's name in Modern Hebrew, Yeriẖo, is generally thought to derive from the Canaanite word rēḥ 'fragrant', but other theories hold that it originates in the Canaanite word Yaraḥ 'moon' or the name of the lunar deity Yarikh, for whom the city was an early centre of worship.
+
 [Jericho的来源](https://en.wikipedia.org/wiki/Jericho). 
 
 一个现代的犬儒主义者, 追求财富和权利纯粹因为没有其他更有价值的事情可做. 
@@ -32,7 +36,7 @@ permalink: /about/
 
 信仰是[Stoicism](https://en.wikipedia.org/wiki/Stoicism).  **My master serves the One.** 
 
-多神论者. 崇拜多位神祗, 崇拜古希腊的 Artemis 和 Athena, 也崇拜印度的Shiva. 最崇拜的还是 死神海伦, 那是我自己的主神.  
+多神论者. 崇拜多位神祗, 崇拜古希腊的 月神Artemis 和 战神Athena, 也崇拜印度的毁灭之身Shiva. 最崇拜的还是 死神海伦, 那是我自己的主神.  
 
 ![](https://lh3.googleusercontent.com/pw/AP1GczMoh_OvXW_N5dFUzocMP-wHDSD1KhsGouovPyyKISwnsvNiJ_UWmBJK38x77rz4-fW2FHO6qTiCUQVfEMjlQU2qrduWqZnVpvE3hB1rT0tID_y2u1Ysx7ZF-4VdxryNTdNQEqwPid02xyDn9WezvBIdJw=w971-h1294-s-no-gm?authuser=0)
 
