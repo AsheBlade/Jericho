@@ -15,7 +15,8 @@ permalink: /about/
 因为没有密度, 这里不会写我的心里话. 也会尽可能的避免暴露我的个人信息和日常情绪表象.
 
 <br>
--------------------
+
+---
 <br>
 
 > In 2023, the archaeological site in the center of the city, known as Tell es-Sultan / Old Jericho, was inscribed in UNESCO's list as a World Heritage Site in the State of Palestine, and described as the "oldest fortified city in the world"
@@ -41,7 +42,8 @@ permalink: /about/
 ![](https://lh3.googleusercontent.com/pw/AP1GczMoh_OvXW_N5dFUzocMP-wHDSD1KhsGouovPyyKISwnsvNiJ_UWmBJK38x77rz4-fW2FHO6qTiCUQVfEMjlQU2qrduWqZnVpvE3hB1rT0tID_y2u1Ysx7ZF-4VdxryNTdNQEqwPid02xyDn9WezvBIdJw=w971-h1294-s-no-gm?authuser=0)
 
 <br>
--------------------
+
+---
 <br>
 
 > 漫揾英雄泪，相离处士家。 <br>
