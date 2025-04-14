@@ -10,7 +10,7 @@ permalink: /about/
 
 这里是我个人的写字板, 放一些可以给其他人看的东西. 这里的文档均不具有任何密度, 也没有隐私, 所以欢迎随意查阅. 
 
-> 喜风不动，冥顺于道。
+> 得失从缘，心无增减，喜风不动，冥顺于道. 
 
 因为没有密度, 这里不会写我的心里话. 也会尽可能的避免暴露我的个人信息和日常情绪表象.
 
@@ -25,15 +25,18 @@ permalink: /about/
 
 [Jericho的来源](https://en.wikipedia.org/wiki/Jericho). 
 
-一个现代的犬儒主义者, 追求财富和权利纯粹因为没有其他更有价值的事情可做. 
+一个现代的犬儒主义者, 追求财富纯粹因为暂时还没有其他更有价值的事情可做. 
 
-一个纯粹的商人. 如果你侮辱了我的家人, 却能给我提供**我所需要的**价值, 我们依然可以做生意. 
+一个商人. 如果你侮辱了我的家人, 却能给我提供**我所需要的**价值, 我们依然可以做生意. 如果你严重的伤害了我, 我绝不会还击, 除非还击可以使我获利. 
 
-精神上海人. 分对错, 但是懒得管.  不想judge别人. 管侬啥事体. 
+> The slower you move, the faster you die. Be a shark. 
 
+I have chose a way of life which makes it impossible for me to make any deep human connection.  
 
 > バトー : 「ひとつ聞かせてくれ、今の自分を幸福だと感じるか？」.  
 > 素子 : 「懐かしい価値観ね。少なくとも今の私に、葛藤は存在しないわ」
+
+精神上海人. 分对错, 但是懒得管.  不想judge别人. 管侬啥事体.
 
 信仰是[Stoicism](https://en.wikipedia.org/wiki/Stoicism).  **My master serves the One.** 
 
