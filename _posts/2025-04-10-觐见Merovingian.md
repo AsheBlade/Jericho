@@ -54,7 +54,7 @@ Merovingian: "这么多年之后, 第一次, 你终于明白那个丑陋的算�
 
 Merovingian 起身走到少年面前, 边走边说. 
 
-> No matter what you become and what you seek, you are still irrevocably human. Always like this stupid. Always trust someone you don't know. 
+> No matter what you become and what you seek, you are still irrevocably human. Always this stupid. Always trust someone you don't know. 
 > 
 > My dear child, why did you put faith in mankind's inherenet goodness? Why? I have to ask - based on what, exactly? 
 > 
@@ -77,7 +77,7 @@ Merovingian: "You have failed yourself. Now, tell me what is our way?
 
 "Our way is the dark way." 少年一字一顿的说. 
 
-"We anticipate, don't improvise. Trust no one. Never yield an advantage. Fight only the battle we are prepared and planned to fight. We forbid empathy. Empathy is weakness. Weakness is vulnerability."
+**"We anticipate, don't improvise. Trust no one. Never yield an advantage. Fight only the battle we are prepared and planned to fight. We forbid empathy. Empathy is weakness. Weakness is vulnerability."**
 
 Merovingian: Very well. You do remember your training.  Swear to me. 
 
