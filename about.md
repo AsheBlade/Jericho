@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 関連
+support: [jquery, gallery]
 permalink: /about/
 ---
 
@@ -25,24 +26,31 @@ permalink: /about/
 
 [Jericho的来源](https://en.wikipedia.org/wiki/Jericho). 
 
-一个现代的犬儒主义者, 追求财富纯粹因为暂时还没有其他更有价值的事情可做. 
+一个现代的犬儒主义者, 一个极简主义者, 追求财富纯粹因为暂时还没有其他更有价值的事情可做. 
 
-一个商人. 如果你侮辱了我的家人, 却能给我提供**我所需要的**价值, 我们依然可以做生意. 如果你严重的伤害了我, 我绝不会还击, 除非还击可以使我获利. 
+一个商人. 如果你侮辱了我的家人, 却能给我提供**我所需要的**价值, 我们依然可以做生意. 如果你严重的伤害了我, 我绝不会还击, 除非还击可以使我从中获利.  情绪对我来说没有价值. 情绪应该是一个成年人可以自由掌控的东西.  
 
-> The slower you move, the faster you die. Be a shark. 
+> The slower you move, the faster you die. Be a shark. No detachment. 
 
-I have chose a way of life which makes it impossible for me to make any deep human connection.  
+I have proudly chosen a way of life which makes it impossible for me to make any deep human connection.  
 
 > バトー : 「ひとつ聞かせてくれ、今の自分を幸福だと感じるか？」.  
 > 素子 : 「懐かしい価値観ね。少なくとも今の私に、葛藤は存在しないわ」
 
 精神上海人. 分对错, 但是懒得管.  不想judge别人. 管侬啥事体.
 
+My process is purely logistical, narrowly focused by design. I always try not to take sides. It's not my place to formulate any opinion. **I serve NO god, or country**. I fly no flag. If I'm effective, it's because of one, simple fact: I. Don't. Give. A. Fuck.
+
+<br>
+
+---
+<br>
+
 信仰是[Stoicism](https://en.wikipedia.org/wiki/Stoicism).  **My master serves the One.** 
 
-多神论者. 崇拜多位神祗, 崇拜古希腊的 月神Artemis 和 战神Athena, 也崇拜印度的毁灭之身Shiva. 最崇拜的还是 死神海伦, 那是我自己的主神.  
+多神论者. 崇拜多位神祗, 崇拜古希腊的 月神Artemis 和 战神Athena, 也崇拜印度的毁灭之神Shiva. 最崇拜的还是死神 Helaena, 那是我为我自己创造的主神.  
 
-![](https://lh3.googleusercontent.com/pw/AP1GczMoh_OvXW_N5dFUzocMP-wHDSD1KhsGouovPyyKISwnsvNiJ_UWmBJK38x77rz4-fW2FHO6qTiCUQVfEMjlQU2qrduWqZnVpvE3hB1rT0tID_y2u1Ysx7ZF-4VdxryNTdNQEqwPid02xyDn9WezvBIdJw=w971-h1294-s-no-gm?authuser=0)
+{% include web-gallery-layout.html gallery=site.data.galleries.Gods_I_Admire %}
 
 <br>
 
@@ -52,7 +60,11 @@ I have chose a way of life which makes it impossible for me to make any deep hum
 > 漫揾英雄泪，相离处士家。 <br>
 > 烟蓑雨笠卷单行，芒鞋破钵随缘化。
 
+愿意终我一生, 倾尽一切资源, 追求永生.  因为没有更有价值的东西值得追求了. 
+
 关于我死后的一些个人安排, 写了遗嘱在[这里](https://asheblade.github.io/TombStone/)
+
+这是我的 [书单]({{site.baseurl}}{%link _posts/2025-04-21-书单.md %})
 
 关于这个站点的代码. 致敬[原作者](https://himring.top/welcome-to-endworld/), 这个站点来自于根据此站点的fork. 
 

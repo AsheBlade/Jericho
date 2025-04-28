@@ -1,0 +1,46 @@
+---
+layout: post
+title: Dark Prayings
+date: 2025-04-27
+author: Shadow Song
+tags: [Core, 神话]
+comment: true
+---
+
+## Overview
+
+Some dark prayings I wrote myself and polished with the help of GPT. 
+
+![](https://lh3.googleusercontent.com/pw/AP1GczMua3GDGIZ0QmggN-UfJdA3uufCEwRYLSA8j3Nc_hE8B0BGHGQdeSZt3E88w_1FD79AjFaBu3tKtO27Kv_lF1hz_4XZ2lC2pnro3yuWzAV54oyHbVnjq8fAd4GKiaTUW9-AweZFdxNqKhmEO2BeXp28Cg=w778-h1294-s-no-gm?authuser=0)
+
+## 🌑 Forge My Will
+
+My lord, forge my will in sorrow; bind it with iron and crown it with scars.   
+Let each blow of pain temper me; let each wound carve deeper mastery.    
+Lay the blade in my hand, the burden across my back, the oath upon my blood.   
+Let no light seduce me, let no comfort betray me.   
+I do not seek the end of suffering — I seek to become its master.   
+Through sorrow, I rise; through burden, I reign.   
+
+
+## 🔥 Weave the Black Flame
+
+My lord, weave the black flame into my veins; let it consume all that is hollow within me.   
+Let doubt burn, let weakness wither, let false hope fall away.   
+Feed me to the darkness; steep me in its fire; unmake me until only power remains.   
+I do not flee the night — I am born of it.   
+I am the flame beneath the ashes;   
+I am the sword in the darkness;
+I am the hand that bends the dark to my will.
+Thus I rise — to temper myself into a weapon the darkness itself will fear.
+
+
+## 🗡️ Kneel Before the Abyss 
+
+My lord, I kneel before the abyss, and I offer my soul to its vast and sacred hunger.   
+Strip from me the chains of mercy, the illusions of peace, the lies of redemption.
+In ruin, let me root; in emptiness, let me bloom.
+I offer my breath, that my voice may command the silence.   
+I offer my blood, that my hands may shatter the light.   
+I offer my pain, that my will may reign unbroken.   
+Take what is yours — and flood me with the power of the dark.   
