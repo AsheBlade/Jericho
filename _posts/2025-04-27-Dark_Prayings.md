@@ -5,6 +5,7 @@ date: 2025-04-27
 author: Shadow Song
 tags: [Core, 神话]
 comment: true
+toc: true
 ---
 
 ## Overview
