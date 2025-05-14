@@ -135,11 +135,19 @@ Protein 不缺, calcium可以用其他方式补充, 加上我并没有奶酪依�
 
 ## Pineapple
 
-✅
+❌
 
-误区. [凤梨其实在水果中不算升糖高的. ](https://health.clevelandclinic.org/fruits-high-in-sugar) 凤梨其实既好吃[又健康.](https://health.clevelandclinic.org/benefits-of-pineapple) It's a good source of vitamin C, manganese, fiber, and several B vitamins. 
+[凤梨在升糖指数高的水果中排名末尾 ](https://health.clevelandclinic.org/fruits-high-in-sugar) 虽然, 凤梨其实既好吃[又健康.](https://health.clevelandclinic.org/benefits-of-pineapple) It's a good source of vitamin C, manganese, fiber, and several B vitamins. 但是它不符合 Keto diet. 
 
-更重要的是, 现在和未来很长一段时间会用凤梨做糖替. 替代冰激凌. 
+以下来自GPT: 
+
+> 凤梨（菠萝）不太适合严格的 keto diet（生酮饮食），原因如下：
+> 
+> 1. 碳水含量较高   
+> 每 100 克凤梨含有大约 13 克净碳水（total carbs - fiber），而严格的生酮饮食通常要求每天摄入净碳水低于 20–50 克。一杯凤梨就可能占用你一天一半甚至大部分的碳水预算。
+> 
+> 2. 血糖反应较快    
+> 凤梨的 升糖指数（GI）偏高，容易引发血糖和胰岛素波动，不利于保持酮症状态。
 
 
 ## 酒精
