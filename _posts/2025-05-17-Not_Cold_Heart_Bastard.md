@@ -7,7 +7,7 @@ tags: [手记]
 comment: true
 ---
 
-还是接着上一次[复活节事件之后重新认识自己]({{site.baseurl}}{%link _posts/2025-05-10-复活节事件之后重新认识自己.md %})的想法去谈. 
+还是接着上一次[复活节事件之后重新认识自己]({{site.baseurl}}{%link _posts/2025-05-10-复活节事件之后重新认识自己.md %})的想法去谈.  It is pretty surprising that I need to deal with these emotion noise myself. It has been a long time. 
 
 我还在想第二次冲击. 
 
