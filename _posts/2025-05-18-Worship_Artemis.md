@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Worship Artemis
+title: Worshipment of Artemis
 date: 2025-05-18
 author: Shadow Walker
 tags: [Stoic]
@@ -103,3 +103,4 @@ Classical Artemis – the eternal virgin; Accompanying her nymphs as a vow of ce
 
 - [Prayers to artemis](https://holytheurgy.com/prayers-to-artemis/)
 - [link](https://vsemart.com/artemis-art/)
+- [How to worship Artemis](https://www.neh.gov/humanities/2014/novemberdecember/curio/how-worship-artemis-and-get-something-in-return)
