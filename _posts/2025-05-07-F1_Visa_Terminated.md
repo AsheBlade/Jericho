@@ -1,10 +1,11 @@
 ---
 layout: post
-title: F1 Termination 事件
+title: 记录并采访因被捕记录而吊销F1的学生
 date: 2025-05-07
 author: Shadow Walker
 tags: [记录, 事件]
 comment: true
+toc: true
 ---
 
 ## Overview
