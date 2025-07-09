@@ -34,6 +34,8 @@ permalink: /about/
 
 I have proudly chosen a way of life which makes it impossible for me to make any deep human connection.  
 
+Love? I'm not one of those pathetic souls who think they cannot be happy without dragging another human being behind them wherever they go. 
+
 > バトー : 「ひとつ聞かせてくれ、今の自分を幸福だと感じるか？」.  
 > 素子 : 「懐かしい価値観ね。少なくとも今の私に、葛藤は存在しないわ」
 
