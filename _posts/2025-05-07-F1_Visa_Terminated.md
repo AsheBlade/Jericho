@@ -3,7 +3,7 @@ layout: post
 title: 记录并采访因被捕记录而吊销F1的学生
 date: 2025-05-07
 author: Shadow Walker
-tags: [记录, 事件]
+tags: [记录, 事件, Immigration]
 comment: true
 toc: true
 ---

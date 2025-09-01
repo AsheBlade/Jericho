@@ -13,18 +13,10 @@ permalink: /about/
 
 > 得失从缘，心无增减，喜风不动，冥顺于道. 
 
-因为没有密度, 这里不会写我的心里话. 也会尽可能的避免暴露我的个人信息和日常情绪表象.
-
 <br>
 
 ---
 <br>
-
-> In 2023, the archaeological site in the center of the city, known as Tell es-Sultan / Old Jericho, was inscribed in UNESCO's list as a World Heritage Site in the State of Palestine, and described as the "oldest fortified city in the world"
-> 
-> Jericho's name in Modern Hebrew, Yeriẖo, is generally thought to derive from the Canaanite word rēḥ 'fragrant', but other theories hold that it originates in the Canaanite word Yaraḥ 'moon' or the name of the lunar deity Yarikh, for whom the city was an early centre of worship.
-
-[Jericho的来源](https://en.wikipedia.org/wiki/Jericho). 
 
 一个现代的犬儒主义者, 一个极简主义者, 追求财富纯粹因为暂时还没有其他更有价值的事情可做. 
 
@@ -62,7 +54,7 @@ My process is purely logistical, narrowly focused by design. I always try not to
 > 漫揾英雄泪，相离处士家。 <br>
 > 烟蓑雨笠卷单行，芒鞋破钵随缘化。
 
-愿意终我一生, 倾尽一切资源, 追求永生.  因为没有更有价值的东西值得追求了. 
+愿意终我一生, 倾尽一切资源, 对抗衰老, 追求永生.  虽然我大概率会失败, 但我依然会倾尽全力, 因为没有更有价值的东西值得追求了. 
 
 关于我死后的一些个人安排, 写了遗嘱在[这里](https://asheblade.github.io/TombStone/)
 
