@@ -219,3 +219,22 @@ Condition | Advice
 Squid fried, battered, crispy | 🚫 Avoid (bad fats + oxidized cholesterol = high heart risk)
 Squid boiled, grilled, lightly cooked | ✅ Safe if moderate (1–2 times a week, portion <100g)
 Huge portions (like >300g per meal) | ⚠️ Risky (too much pure cholesterol load)
+
+## 辣子鸡丁
+
+❌
+
+为什么要吃? 想要那个脆的口感和辣的感觉
+
+为什么不该吃: 
+
+- 吃完口腔不舒服, 就像薯片一样. 
+- 太硬, 太油, 肠胃也不舒服. 
+- 口太重, 太咸, 糖太多. 
+
+其实吃几颗解馋就好了, 吃掉半盘一盘真是没必要. 
+
+替换选项, 不惜成本, 也要吃点相对健康的: 
+
+- 避风塘龙虾
+- 烧鸭
