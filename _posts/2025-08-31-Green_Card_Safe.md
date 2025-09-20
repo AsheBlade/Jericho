@@ -4,6 +4,7 @@ title: How Safe Is a Green Card Under Trump 2.0?
 date: 2025-08-31
 author: Shadow Walker
 tags: [Immigration]
+toc: true
 ---
 
 ## Disclaimer
