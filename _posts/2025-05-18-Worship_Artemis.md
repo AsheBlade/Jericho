@@ -104,3 +104,21 @@ Classical Artemis – the eternal virgin; Accompanying her nymphs as a vow of ce
 - [Prayers to artemis](https://holytheurgy.com/prayers-to-artemis/)
 - [link](https://vsemart.com/artemis-art/)
 - [How to worship Artemis](https://www.neh.gov/humanities/2014/novemberdecember/curio/how-worship-artemis-and-get-something-in-return)
+
+### Guillaume Seignac
+
+这个人似乎画了好多幅Artemis, 动作都是一样的, 但每幅略有差异.  都不在博物馆里, 皆为私人收藏.
+
+查到的有两幅
+
+- [Christie 2003](https://www.christies.com/en/lot/lot-4171088): Sold as 22,705 USD. 22 x 18 in. (56 x 46 cm.)
+
+![](https://lh3.googleusercontent.com/pw/AP1GczNd3DriBZdZ-oUYJISsCXu3lwVAv1iiGC2tUdTAKi9B0vNCnm9RAsfdtSmt01UtqYC6Df88ad67b16t1CU8pSeOggs9XH_k52tFL_kRKjdmcoc0Rlslf148B3cVpi4fmyzwAf--7M_BuInJJ8ynTNfLdg=w512-h628-s-no-gm?authuser=0)
+
+- [Sotheby 2022](https://www.sothebys.com/en/buy/auction/2022/19th-century-works-of-art/diana-the-huntress): Sold as 32,760 USD. 22 by 18 in.; 56 by 45.6 cm. 我更喜欢这个版本. 
+
+![](https://lh3.googleusercontent.com/pw/AP1GczNYPhZlwy_yH_udpNzVKghLspQCTlZ4PkG1BOQbn1Z_qmTMFA3n2jwiKvMgc36-UXX132FLbOCDolcf3SAVIEXb7NbdX6GGngeYrNMUcxQ8QV5kpCupAmQMcWulCHJ0D-ACL3LsCWOhyLHze-XqusAcrw=w1064-h1294-s-no-gm?authuser=0)
+
+- [相册](https://photos.app.goo.gl/WtauPL1dzyiPRyJu6)
+
+下一次这幅画再上拍的时候, 我要争取买下它. 
