@@ -52,14 +52,14 @@ footer-links:
   flickr: #https://www.flickr.com/<>
   instagram: #https://instagram.com/<>
   # linkedin: yiming-pan-609873a4/
-  pinterest: david26apply/
+  #pinterest: david26apply/
   rss: #随便填点啥RSS就能用了
   stackoverflow: # http://stackoverflow.com/<>
   tumblr: # https://<username>.tumblr.com
   twitter: # https://www.twitter.com/<your_twitter_username> 
   youtube: # channel/<your_long_string> or user/<user-name>
   tombstone: https://asheblade.github.io/TombStone/
-  wechat: https://lh3.googleusercontent.com/pw/AL9nZEWpRk9fidluLRj5zjRfJbccapGlm4kBVX-cY7B1qD8EnVkl-3KSHs0Dqr8dATY7_ZFrv3G52FsdwRkjh8UNksisSXNU2U0931BtBKb58C6ui-6tQQVcN8435jkoUpHWxDUncs475EaHe8xUDWej7YkD=w1082-h1061-no?authuser=0
+  #wechat: https://lh3.googleusercontent.com/pw/AL9nZEWpRk9fidluLRj5zjRfJbccapGlm4kBVX-cY7B1qD8EnVkl-3KSHs0Dqr8dATY7_ZFrv3G52FsdwRkjh8UNksisSXNU2U0931BtBKb58C6ui-6tQQVcN8435jkoUpHWxDUncs475EaHe8xUDWej7YkD=w1082-h1061-no?authuser=0
 
 # 站点页脚的文字
 footer-text: Copyright (c) 2030 Shadow Walker
