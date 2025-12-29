@@ -1,0 +1,9 @@
+# 使用方法:
+# 1. 此模板仅限于web 图片. 不用于本地图片
+# 2. 在original下面添加图片路径即可. 如果要加新图片, 就再复制粘贴一行 "- original:"
+# 3. 不要试图简化这个模板. 每一行每一个字符都不可缺, 已经尝试简化了, 下面这两行已经是最简形式, 不要强迫症去简化. 
+
+pictures:
+- original: https://lh3.googleusercontent.com/pw/AP1GczPUmsxzt2BMMLmAHuB0l35Zd0B7NDjd2EAfm9gIwTGarqyHgPdEf7YPuBKGLWGMLcVmye2K4CLyGms44Q_Gd3b1yOPP_zkJfKBZr2oq2jeL959SYojFsbe3bENpzhH5HzQf1sH-6WVx8igsxzP0DCdFjw=w1043-h1288-s-no-gm?authuser=0
+- original: https://lh3.googleusercontent.com/pw/AP1GczPTSeYHRBXNNJnVx-6eeb9apu4R1MVn7en3VmKAT0VMSb5H9CM2WhOggLPTFcd2rDi7YYmqsPtH4hsECeDfWJ4qJutUgqXOQe2YWwgFLo7YMrYB0gJqfwwEGmWN9UlMXZKGN58JWsyedE4saMYBu8Lzrw=w1045-h1288-s-no-gm?authuser=0
+- original: https://lh3.googleusercontent.com/pw/AP1GczO9zNzBPZO_l5y9elNEIv7Oo40sQGb6q3IHq0CgjkwjwdwMCHEFFp7_V6g1YpKQP4O8yo2mgvKbPZ7Fu7fTWuTfdV05CLFh-bKtDJq_9ooFHUeVcHrwgIFA4JBOdEC2UO6thPgxFOrFeyHpdcGXfKBrxA=w1045-h1288-s-no-gm?authuser=0
