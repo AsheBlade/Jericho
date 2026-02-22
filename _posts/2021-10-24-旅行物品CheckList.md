@@ -40,7 +40,7 @@ comments: true
 - Prepare a shirt if you have plan for fine dining.  带衬衫必带乳贴. 
 - umbrella (if rain)
 - 租车需要带汽车保险卡
-- Switch + Switch 电源线
+- Switch + Switch 电源线 + 软性飞机夹子
 - 3小时以上飞机带眼镜盒子
 - 几十美元现金 + 储蓄卡. 
 
