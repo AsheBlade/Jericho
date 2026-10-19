@@ -43,7 +43,7 @@ My process is purely logistical, narrowly focused by design. I always try not to
 ---
 <br>
 
-
+这是我的 [书单]({{site.baseurl}}{%link _posts/2025-04-21-书单.md %})
 
 
 ## Contact
